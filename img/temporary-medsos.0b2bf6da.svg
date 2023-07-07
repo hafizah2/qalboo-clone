@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="27" viewBox="0 0 97 27">
+  <g id="Icon_Social_Media" data-name="Icon Social Media" transform="translate(-0.205 -0.13)">
+    <g id="Icon_Instagram" data-name="Icon Instagram" transform="translate(0 0)">
+      <circle id="Ellipse_46" data-name="Ellipse 46" cx="13.5" cy="13.5" r="13.5" transform="translate(0.066 0.13)" fill="#fff"/>
+      <g id="instagram" transform="translate(6.174 6.404)">
+        <g id="Group_160" data-name="Group 160">
+          <g id="Group_159" data-name="Group 159">
+            <path id="Path_455" data-name="Path 455" d="M9.412,0H4.278A4.279,4.279,0,0,0,0,4.278V9.412A4.279,4.279,0,0,0,4.278,13.69H9.412A4.279,4.279,0,0,0,13.69,9.412V4.278A4.279,4.279,0,0,0,9.412,0Zm2.995,9.412a3,3,0,0,1-2.995,2.995H4.278A3,3,0,0,1,1.283,9.412V4.278A3,3,0,0,1,4.278,1.283H9.412a3,3,0,0,1,2.995,2.995Z" fill="#424240"/>
+          </g>
+        </g>
+        <g id="Group_162" data-name="Group 162" transform="translate(3.422 3.422)">
+          <g id="Group_161" data-name="Group 161">
+            <path id="Path_456" data-name="Path 456" d="M131.422,128a3.422,3.422,0,1,0,3.422,3.422A3.423,3.423,0,0,0,131.422,128Zm0,5.561a2.139,2.139,0,1,1,2.139-2.139A2.142,2.142,0,0,1,131.422,133.561Z" transform="translate(-128 -128)" fill="#424240"/>
+          </g>
+        </g>
+        <g id="Group_164" data-name="Group 164" transform="translate(10.068 2.71)">
+          <g id="Group_163" data-name="Group 163">
+            <circle id="Ellipse_45" data-name="Ellipse 45" cx="0.456" cy="0.456" r="0.456" fill="#424240"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <!-- <g id="Icon_Twitter" data-name="Icon Twitter" transform="translate(70.278 0)">
+      <circle id="Ellipse_47" data-name="Ellipse 47" cx="13.5" cy="13.5" r="13.5" transform="translate(-0.073 0.13)" fill="#fff"/>
+      <g id="twitter" transform="translate(6.492 7.946)">
+        <g id="Group_165" data-name="Group 165" transform="translate(0)">
+          <path id="Path_457" data-name="Path 457" d="M13.69,49.317a5.852,5.852,0,0,1-1.617.443,2.791,2.791,0,0,0,1.235-1.551,5.609,5.609,0,0,1-1.78.679,2.806,2.806,0,0,0-4.855,1.919,2.89,2.89,0,0,0,.065.64A7.944,7.944,0,0,1,.953,48.512a2.807,2.807,0,0,0,.862,3.751,2.772,2.772,0,0,1-1.268-.346v.031A2.819,2.819,0,0,0,2.8,54.705a2.8,2.8,0,0,1-.736.092,2.481,2.481,0,0,1-.531-.048A2.833,2.833,0,0,0,4.151,56.7a5.639,5.639,0,0,1-3.48,1.2A5.256,5.256,0,0,1,0,57.863a7.9,7.9,0,0,0,4.305,1.259,7.933,7.933,0,0,0,7.988-7.986c0-.124,0-.244-.01-.363A5.6,5.6,0,0,0,13.69,49.317Z" transform="translate(0 -48)" fill="#424240"/>
+        </g>
+      </g>
+    </g> -->
+    <!-- <g id="Icon_Instagram-2" data-name="Icon Instagram" transform="translate(0 0)">
+      <circle id="Ellipse_46-2" data-name="Ellipse 46" cx="13.5" cy="13.5" r="13.5" transform="translate(0.205 0.13)" fill="#fff"/>
+      <text id="f" transform="translate(14.205 21.13)" fill="#424240" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-3.24" y="0">f</tspan></text>
+    </g> -->
+  </g>
+</svg>

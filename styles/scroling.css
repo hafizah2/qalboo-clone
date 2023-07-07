@@ -1,0 +1,24 @@
+.scroling {
+    margin-top: 70px;
+    background-color: rgb(248, 247, 247);
+    width: 100%;
+
+}
+
+.part-1 {
+    margin-left: 50px;
+    position: relative;
+
+}
+
+.space-1 {
+    margin-right: 50px;
+}
+
+span {
+    font-weight: 600;
+}
+
+.appgooglestore {
+    width: 150px;
+}
